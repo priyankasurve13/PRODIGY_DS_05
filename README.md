@@ -7,5 +7,7 @@ By analyzing and visualizing accident hotspots and contributing factors, we aim 
 
 # Objectives
 Identify patterns related to road conditions, weather, and time of day.
+
 Visualize accident hotspots.
+
 Analyze contributing factors to accidents.
